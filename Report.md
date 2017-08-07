@@ -25,9 +25,8 @@ Another graphic way to give an element within your interface some visual precede
 ### Make effective use of Colour and Contrast
 Picking the right colours is critical as the right choice of colours can make your interface look stunning or have the opposite effect. Poor use of colours can make your GUI look complicated or make elements hard to read, making for an unpleasant user experience. Colours can be used to convey visual hierarchy, establish a relationship between elements and also help to hold the attention of users.
 Contrasting colours can be used to great effect in similar fashion to what I talked about in the Typography point before this one. Good contrasting can draw a user to a reference point on your interface, take a look at the example below:
-![alt text][logo]
 
-[logo]: http://d5vf6134d8ffdnfp1qv4rv3l.wpengine.netdna-cdn.com/wp-content/uploads/01-techcrunch.jpg "Logo Title Text 2"
+![alt text](http://d5vf6134d8ffdnfp1qv4rv3l.wpengine.netdna-cdn.com/wp-content/uploads/01-techcrunch.jpg "Example of good color contrast inside a GUI")
 
 Ref: https://www.elegantthemes.com/blog/resources/10-rules-of-good-ui-design-to-follow-on-every-web-design-project
 
