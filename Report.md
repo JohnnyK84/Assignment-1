@@ -35,12 +35,13 @@ Contrasting colours can be used to great effect in similar fashion to what I tal
 ### Simplify your forms
 Forms are one of the main methods through which users will interact with your web projects. Most users don’t like filling out forms and will avoid them if possible. Therefore, it is important that a form is kept as simple as possible and integrated seamlessly into the UI. Only include fields in the form that are absolutely necessary. Users are more likely to complete a form with very few input fields than they would a complicated form with many fields to fill in. A nice example of a form is provided below from twitter:
 
-![alt text]( https://www.google.co.nz/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi40bmQosTVAhVCkJQKHSVjCzAQjRwIBw&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F37365871878334047%2F&psig=AFQjCNEva4Ap4-r35HZi2Z_qD2I1zRor9g&ust=1502165842177556" Example of a simple clear form")
+![alt text]( https://www.google.co.nz/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi40bmQosTVAhVCkJQKHSVjCzAQjRwIBw&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F37365871878334047%2F&psig=AFQjCNEva4Ap4-r35HZi2Z_qD2I1zRor9g&ust=1502165842177556 "Example of a simple clear form")
 [Click Here for Reference](https://www.elegantthemes.com/blog/resources/10-rules-of-good-ui-design-to-follow-on-every-web-design-project)
 
 ### Know your Audience
 Who better to ask to design the perfect interface for your app than the people who intend to use it. Generally, if your planning to make an app, you will already have an idea of what your target audience might want.  
 You need to have a clear picture of what sort of audience you will target as you can cater your design to certain demographics if needed. For example you would be likely to use a totally different style font / colour scheme if your App was focused towards younger generation as opposed to an older generation. The more the UI developer knows about the target audience, the more specific the design of the interface can be suited to that audience.
+
 [Click Here for Reference](https://www.elegantthemes.com/blog/resources/10-rules-of-good-ui-design-to-follow-on-every-web-design-project)
 
 
