@@ -27,7 +27,7 @@ Picking the right colours is critical as the right choice of colours can make yo
 Contrasting colours can be used to great effect in similar fashion to what I talked about in the Typography point before this one. Good contrasting can draw a user to a reference point on your interface, take a look at the example below:
 ![alt text][logo]
 
-[logo]: https://cdn.elegantthemes.com/blog/wp-content/uploads/2016/02/contrast-jurassic-world-interface.png "Logo Title Text 2"
+[logo]: http://d5vf6134d8ffdnfp1qv4rv3l.wpengine.netdna-cdn.com/wp-content/uploads/01-techcrunch.jpg "Logo Title Text 2"
 
 Ref: https://www.elegantthemes.com/blog/resources/10-rules-of-good-ui-design-to-follow-on-every-web-design-project
 
