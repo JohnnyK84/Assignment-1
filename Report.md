@@ -20,19 +20,22 @@ Program actions and logic will be separated from the HTML, CSS and design files.
 [Click Here for Reference](http://www.comentum.com/guide-to-web-application-development.html)
 
 ### Good Use of Typography
-Another graphic way to give an element within your interface some visual precedence would be through the use of good Typography. This doesn’t just mean picking a nice font and using it consistently throughout your design. Every font has its own personality and your choices should be influenced by your target audience. Size is an important component in font design. Key information such as headers are highlighted. Contrasting backgrounds are another effective way to text stand out. I’ve attached the photo below from  which showcases this:[Click Here for Reference](https://www.elegantthemes.com/blog/resources/10-rules-of-good-ui-design-to-follow-on-every-web-design-project)
+Another graphic way to give an element within your interface some visual precedence would be through the use of good Typography. This doesn’t just mean picking a nice font and using it consistently throughout your design. Every font has its own personality and your choices should be influenced by your target audience. Size is an important component in font design. Key information such as headers are highlighted. Contrasting backgrounds are another effective way to text stand out. I’ve attached the photo below from  which showcases this:
 
+![alt text](https://www.smashingmagazine.com/wp-content/uploads/2010/12/love-hate1.jpg "Example of good color contrast inside a GUI")
+
+[Click Here for Reference](https://www.elegantthemes.com/blog/resources/10-rules-of-good-ui-design-to-follow-on-every-web-design-project)
 
 ### Make effective use of Colour and Contrast
 Picking the right colours is critical as the right choice of colours can make your interface look stunning or have the opposite effect. Poor use of colours can make your GUI look complicated or make elements hard to read, making for an unpleasant user experience. Colours can be used to convey visual hierarchy, establish a relationship between elements and also help to hold the attention of users.
-Contrasting colours can be used to great effect in similar fashion to what I talked about in the Typography point before this one. Good contrasting can draw a user to a reference point on your interface, take a look at the example below:[Click Here for Reference](https://www.elegantthemes.com/blog/resources/10-rules-of-good-ui-design-to-follow-on-every-web-design-project)
+Contrasting colours can be used to great effect in similar fashion to what I talked about in the Typography point before this one. Good contrasting can draw a user to a reference point on your interface, take a look at the example below:
+[Click Here for Reference](https://www.elegantthemes.com/blog/resources/10-rules-of-good-ui-design-to-follow-on-every-web-design-project)
 
 ![alt text](http://d5vf6134d8ffdnfp1qv4rv3l.wpengine.netdna-cdn.com/wp-content/uploads/01-techcrunch.jpg "Example of good color contrast inside a GUI")
 
-
 ### Simplify your forms
-Forms are one of the main methods through which users will interact with your web projects. Most users don’t like filling out forms and will avoid them if possible. Therefore, it is important that a form is kept as simple as possible and integrated seamlessly into the UI. Only include fields in the form that are absolutely necessary. Users are more likely to complete a form with very few input fields than they would a complicated form with many fields to fill in. A nice example of a form is provided below from twitter:[Click Here for Reference](https://www.elegantthemes.com/blog/resources/10-rules-of-good-ui-design-to-follow-on-every-web-design-project)
-
+Forms are one of the main methods through which users will interact with your web projects. Most users don’t like filling out forms and will avoid them if possible. Therefore, it is important that a form is kept as simple as possible and integrated seamlessly into the UI. Only include fields in the form that are absolutely necessary. Users are more likely to complete a form with very few input fields than they would a complicated form with many fields to fill in. A nice example of a form is provided below from twitter:
+[Click Here for Reference](https://www.elegantthemes.com/blog/resources/10-rules-of-good-ui-design-to-follow-on-every-web-design-project)
 
 ### Know your Audience
 Who better to ask to design the perfect interface for your app than the people who intend to use it. Generally, if your planning to make an app, you will already have an idea of what your target audience might want.  
