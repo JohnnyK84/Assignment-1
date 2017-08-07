@@ -5,24 +5,29 @@ As I’ve chosen to learn to develop Electron based web apps for GUI programing 
 ### Simplicity / KISS (Keep It simple stupid)
 One of the essential elements an app needs to provide a great user experience is simplicity. Users should not have to spend time and  effort figuring out how to navigate around and use your app. They should be able to direct themselves around the environment of your app effortlessly and should not be confronted with confusion at any point. 
 Minimising the amount of buttons and other navigational options helps avoid confusion, if your app is complex than provide a link to “advanced options”. This keeps your app simple yet offers the user advanced options if they wish to go further.
+
 [Click Here for Reference](https://www.ibm.com/developerworks/community/blogs/e3ec7365-1b09-44f2-906f-19826275860f/entry/7_Essential_Best_Practices_for_Designing_Web_App_UI?lang=en)
 
 ### Consistency
 Having consistency throughout your app keeps it looking uniform and uncomplicated also helping to ensure simplicity in the overall appearance of the app. Colour, font, buttons and icons should all be familiar and comfortable for the user. Using funky buttons and icons can sometimes look nice but at the same time confuses the user who has to force their brain to adjust.
+
 [Click Here for Reference](https://www.ibm.com/developerworks/community/blogs/e3ec7365-1b09-44f2-906f-19826275860f/entry/7_Essential_Best_Practices_for_Designing_Web_App_UI?lang=en)
 
 ### Visual Hierarchy
 Important elements or features of an App that are clearly more important than others should be made to stand out. Users shouldn’t have to spend time searching the page for the main function of the app, it should stand out immediately. An example of Visual Hierarch would be create lots of white space around a call-to-action button so that it is immediately identifiable to the user.
+
 [Click Here for Reference](https://www.ibm.com/developerworks/community/blogs/e3ec7365-1b09-44f2-906f-19826275860f/entry/7_Essential_Best_Practices_for_Designing_Web_App_UI?lang=en)
 
 ### Segregate Design and Implementation
 Program actions and logic will be separated from the HTML, CSS and design files. This type of design framework is good practice to ensure that designers without any programming experience are able to edit the interface and make design changes without help from a programmer.
+
 [Click Here for Reference](http://www.comentum.com/guide-to-web-application-development.html)
 
 ### Good Use of Typography
 Another graphic way to give an element within your interface some visual precedence would be through the use of good Typography. This doesn’t just mean picking a nice font and using it consistently throughout your design. Every font has its own personality and your choices should be influenced by your target audience. Size is an important component in font design. Key information such as headers are highlighted. Contrasting backgrounds are another effective way to text stand out. I’ve attached the photo below from  which showcases this:
 
 ![alt text](https://www.smashingmagazine.com/wp-content/uploads/2010/12/love-hate1.jpg "Example of good use of Typography")
+
 [Click Here for Reference](https://www.elegantthemes.com/blog/resources/10-rules-of-good-ui-design-to-follow-on-every-web-design-project)
 
 ### Make effective use of Colour and Contrast
@@ -30,12 +35,14 @@ Picking the right colours is critical as the right choice of colours can make yo
 Contrasting colours can be used to great effect in similar fashion to what I talked about in the Typography point before this one. Good contrasting can draw a user to a reference point on your interface, take a look at the example below:
 
 ![alt text](http://d5vf6134d8ffdnfp1qv4rv3l.wpengine.netdna-cdn.com/wp-content/uploads/01-techcrunch.jpg "Example of good color contrast inside a GUI")
+
 [Click Here for Reference](https://www.elegantthemes.com/blog/resources/10-rules-of-good-ui-design-to-follow-on-every-web-design-project)
 
 ### Simplify your forms
 Forms are one of the main methods through which users will interact with your web projects. Most users don’t like filling out forms and will avoid them if possible. Therefore, it is important that a form is kept as simple as possible and integrated seamlessly into the UI. Only include fields in the form that are absolutely necessary. Users are more likely to complete a form with very few input fields than they would a complicated form with many fields to fill in. A nice example of a form is provided below from twitter:
 
-![alt text]( https://www.google.co.nz/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi40bmQosTVAhVCkJQKHSVjCzAQjRwIBw&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F37365871878334047%2F&psig=AFQjCNEva4Ap4-r35HZi2Z_qD2I1zRor9g&ust=1502165842177556 "Example of a simple clear form")
+![alt text]( https://designmodo.com/wp-content/uploads/2011/10/335.jpg "Example of simple easy to ue form")
+
 [Click Here for Reference](https://www.elegantthemes.com/blog/resources/10-rules-of-good-ui-design-to-follow-on-every-web-design-project)
 
 ### Know your Audience
