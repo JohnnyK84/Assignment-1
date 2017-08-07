@@ -5,7 +5,7 @@ As I’ve chosen to learn to develop Electron based web apps for GUI programing 
 ### Simplicity / KISS (Keep I simple stupid)
 One of the essential elements an app needs to provide a great user experience is simplicity. Users should not have to spend time and  effort figuring out how to navigate around and use your app. They should be able to direct themselves around the environment of your  app effortlessly and should not be confronted with confusion at any point. 
 Minimising the amount of buttons and other navigational options helps avoid confusion, if your app is complex than provide a link to “advanced options”. This keeps your app simple yet offers the user advanced options if they wish to go further.
-Ref: https://www.ibm.com/developerworks/community/blogs/e3ec7365-1b09-44f2-906f-19826275860f/entry/7_Essential_Best_Practices_for_Designing_Web_App_UI?lang=en
+[Click Here for Ref](https://www.ibm.com/developerworks/community/blogs/e3ec7365-1b09-44f2-906f-19826275860f/entry/7_Essential_Best_Practices_for_Designing_Web_App_UI?lang=en)
 
 ### Consistency
 Having consistency throughout your app keeps it looking uniform and uncomplicated also helping to ensure simplicity in the overall appearance of the app. Colour, font, buttons and icons should all be familiar and comfortable for the user. Using funky buttons and icons can sometimes look nice but at the same time confuses the user who has to force their brain to adjust.
