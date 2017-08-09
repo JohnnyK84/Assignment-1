@@ -52,3 +52,7 @@ Who better to ask to design the perfect interface for your app than the people w
 
 ### The imoprtance of a GOOD GUI
 The importance of a user-friendly interface for any environment is vital. A good user interface can attract high volumes of internet traffic. In today’s era e-commerce is fast becoming the preferred choice for many to do their shopping and there is a huge amount of businesses that are completely dependent on the internet for their success. If you have a UI that is not functional, hard to use, too complex or messy, then chances are not many people will visit your website or use your app so this really highlights the importance of a good user friendly GUI.
+
+
+
+## Peer Review Here:
