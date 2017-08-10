@@ -6,4 +6,4 @@
 
 2.  Clone app and npm start in git bash to test
 
-3.  Jeff please check APP COMMITS to see a log of the commits for construction of the app made I made on a local repository different to    the one which contained my report - as discussed in class.
+3.  Attn. Jeff. Please check "APP COMMITS" picture to see a log of the commits for construction of the app. As discussed in class it was made in a different repository on my local machine.
