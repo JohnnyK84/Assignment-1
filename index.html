@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Johnnys RGB APP :)</title>
+    <link rel="stylesheet" type="text/css" href="main.css">
+  </head>
+
+  <body onload="updateSlider()">
+
+    <h1>RGB Colour Picker APP</h1>
+
+        <p>Drag the sliders to adjust the RGB values.<br/>Use buttons below to change background colour or reset sliders</p>
+        <fieldset>
+        <label for="red" >R</label >
+        <input type="range" min="0" max="255" step="1" id="red" value="255" >
+        <output for="red" id ="red_out">255</output>
+        </fieldset>
+
+        <fieldset>
+            <label for="green">G</label >
+            <input type="range" min="0" max="255" step="1" id="green" value="255" >
+            <output for="green" id ="green_out">255</output>
+        </fieldset>
+        
+        <fieldset>
+            <label for="blue">B</label >
+            <input type="range" min="0" max="255" step="1" id="blue" value="255" >
+            <output for="blue" id ="blue_out">255</output>
+        </fieldset>
+        
+        <button onclick="changeBackground()">CHANGE BACKGROUND COLOUR</button>
+        <button onclick="resetApp()">RESET</button>
+
+        <div id="display">Your sample Color</div>
+
+    <script src = "functions.js"> </script>
+
+  </body>
+</html>
