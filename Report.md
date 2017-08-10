@@ -56,7 +56,9 @@ The importance of a user-friendly interface for any environment is vital. A good
 
 
 ## Peer Review Here:
+I reviewed Johnny's RGB color app. It was a good simple app. There were no irrelevant aspects added that caused confusion within the application.  It was easy to navigate my way arround the application and it was very intuitive to use.  Johnny's application also displayed good consistency. All of the components were in a pleasing position as a user. Nothing was disjointed from the rest of the components of the application.  He also had a good visual hierarchy. The sliders of the application were front and center of you attention.  It was a good simple app that was intuitive to use and understand.
 
+Peer Reviewed by Sam Gough (10009941)
 
 
 
