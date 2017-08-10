@@ -56,3 +56,9 @@ The importance of a user-friendly interface for any environment is vital. A good
 
 
 ## Peer Review Here:
+
+
+
+
+## Attn Jeff:
+Please check the picture called APP COMMITS to view my commits for the app, as discussed in class the app was made on a local repo on my machine seperate to the repository which contained my report. I took a pic as you suggested of my commits for the construction of the app.
